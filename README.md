@@ -18,5 +18,5 @@
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mobwuw&show_icons=true)
+<img alt="mob" src="https://github-readme-stats.vercel.app/api?username=mobwuw&show_icons=true"/>
 
