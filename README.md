@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on nothing
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java and Typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mobwuw](https://github.com/mobwuw)
 
