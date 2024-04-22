@@ -18,5 +18,6 @@
 </p>
 
 
-<img alt="mob" src="https://github-readme-stats.vercel.app/api?username=mobwuw&show_icons=true"/>
+<img alt="mob" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=mobwuw&show_icons=true"/>
 
+<img alt="mob" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobwuw"/>
